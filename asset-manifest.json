@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ajaym1618/Form/static/css/main.4ce4a650.css",
+    "main.js": "/Ajaym1618/Form/static/js/main.a897e949.js",
+    "static/js/787.39bb0775.chunk.js": "/Ajaym1618/Form/static/js/787.39bb0775.chunk.js",
+    "index.html": "/Ajaym1618/Form/index.html",
+    "main.4ce4a650.css.map": "/Ajaym1618/Form/static/css/main.4ce4a650.css.map",
+    "main.a897e949.js.map": "/Ajaym1618/Form/static/js/main.a897e949.js.map",
+    "787.39bb0775.chunk.js.map": "/Ajaym1618/Form/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4a650.css",
+    "static/js/main.a897e949.js"
+  ]
+}
